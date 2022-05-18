@@ -57,4 +57,5 @@ ttk.Radiobutton(root,text="female",value="female",var=gender).grid(row=5,column=
 ttk.Radiobutton(root,text="male",value="male",var=gender).grid(row=5,column=1)
 
 root.geometry( '500x400' )
-root.mainloop()
+root.mainloop() #hi
+
